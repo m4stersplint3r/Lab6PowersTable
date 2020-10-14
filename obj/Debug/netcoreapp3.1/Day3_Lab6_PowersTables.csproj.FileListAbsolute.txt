@@ -1,0 +1,13 @@
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\bin\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.exe
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\bin\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.deps.json
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\bin\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.runtimeconfig.json
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\bin\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.runtimeconfig.dev.json
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\bin\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.dll
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\bin\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.pdb
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.csprojAssemblyReference.cache
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.AssemblyInfoInputs.cache
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.AssemblyInfo.cs
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.dll
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.pdb
+D:\Bootcamp\Labs\Day3_Lab6_PowersTables\obj\Debug\netcoreapp3.1\Day3_Lab6_PowersTables.genruntimeconfig.cache
